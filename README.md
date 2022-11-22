@@ -11,7 +11,7 @@
     <img align="center" alt="Daniel" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg">   
     <img align="center" alt="Daniel" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
     <img align="center" alt="Daniel" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-    <img align="center" alt="Daniel" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain wordmark.svg">
+    <img align="center" alt="Daniel" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
     <img align="center" alt="Daniel" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
     <img align="center" alt="Daniel" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">  
     <img align="center" alt="Daniel" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> 
